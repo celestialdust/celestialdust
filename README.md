@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joey Xue!
+# Hi, I'm Joey Xue!
 
 🎓 **Computer Science & Statistics Student** at UNC Chapel Hill | **AI Engineer** passionate about building intelligent systems that solve real-world problems
 
@@ -20,8 +20,6 @@
 **Tech Stack**: GraphRAG, LangGraph, OpenAI API, Neo4j, PostgreSQL, AWS ElasticSearch, Microsoft Word Add-in
 
 **Why It Matters**: Streamlines the complex, time-consuming process of clinical trial protocol creation while ensuring regulatory compliance and consistency across studies.
-
-[🔗 Explore the Project](link-to-project-when-available)
 
 ---
 
@@ -77,7 +75,6 @@ Created a personalized nutrition platform that reduced **meal planning time by 7
 - 🎖️ **Dean's List** - UNC Chapel Hill (3.93/4.0 GPA)
 - 🥈 **2nd Place Winner** - UNC SolHack 2025 (LazyNote project)
 - 📜 **Cornell Machine Learning Certificate** (In Progress - May 2025)
-- 🏗️ **Multi-Agent AI Systems** - Led development of production-grade LangGraph applications
 
 ---
 
@@ -89,21 +86,13 @@ Created a personalized nutrition platform that reduced **meal planning time by 7
 
 ---
 
-## 📊 GitHub Stats
-
-![Joey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=celestialdust&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celestialdust&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Currently Working On
 
 - 🔬 **Advanced Multi-Agent Systems** for clinical research automation
 - 🎤 **Real-time AI voice applications** with sub-200ms latency
 - 📈 **Scaling AI systems** to process 100,000+ records daily
-- 🧠 **Graph Neural Networks** for improved RAG performance
+- 🧠 **GraphRAG** for improved RAG performance
 
 ---
 
-*"Building AI that doesn't just process data, but understands context and delivers real value to users"*
+*"Building AI agent that doesn't just process data, but understands context and delivers real value to users"*
