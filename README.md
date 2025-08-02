@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joey Xue!
+# Hi, I'm Joey Xue!
 
 🎓 **Computer Science & Statistics Student** at UNC Chapel Hill | **AI Engineer** passionate about building **AI Agents** and **Entrepreneurship**
 
@@ -31,7 +31,7 @@
 
 **Why It's Impressive**: Demonstrates advanced understanding of multi-agent AI systems, protocol implementations, and production deployment - showcasing the ability to build complex, scalable AI infrastructure that integrates with cutting-edge AI assistants.
 
-[🔗 **Live Demo**](https://your-deep-research-demo.onrender.com) | [📱 **Repository**](https://github.com/celestialdust/deep-research-mcp) | [📖 **Documentation**](https://github.com/celestialdust/deep-research-mcp#readme)
+[📱 **Repository**](https://github.com/celestialdust/deep-research-mcp) | [📖 **Documentation**](https://github.com/celestialdust/deep-research-mcp#readme)
 
 ---
 
